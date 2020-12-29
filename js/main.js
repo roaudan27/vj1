@@ -2,7 +2,7 @@ alert("게임방법:  게임시작을 누르면 각 단어당 3초의 시간이 
 
 
 // 사용 변수
-const SETTING_TIME = 4;
+const SETTING_TIME = 3;
 let words = [];
 let time;
 let isPlaying = false;
