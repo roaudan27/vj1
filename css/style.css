@@ -12,7 +12,7 @@ body {
 
 .header {
     width: 100%;
-    background: #3b5999;
+    background: #BB377D;
     color: #fff;
     text-align: center;
     padding: 1rem;
@@ -21,11 +21,14 @@ body {
 .word-display {
     margin-top: 3rem;
     font-size: 80px;
-    color: #3b5999;
+    color: #000000;
+    border-style: groove;
+    border-radius: 12px;
 }
 
 .word-input-box {
     margin-top: 2rem;
+    border-radius: 12px;
 }
 
 .word-input {
@@ -49,11 +52,12 @@ body {
 .button {
     width: 200px;
     height: 35px;
-    background: #3b5999;
+    background:  #BB377D;
     color: #fff;
     border: none;
     margin-top: 3rem;
     cursor: pointer;
+    border-radius: 12px;
 }
 
 .loading {
